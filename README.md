@@ -1,6 +1,6 @@
-# Standalone JNI Implementation of a Java Wrapper over ghostlanders Neoscrypt Algorythm #
-# Author:Kris Davison #
-# Date:13/01/2015 #
+### Standalone JNI Implementation of a Java Wrapper over ghostlanders Neoscrypt Algorythm ###
+### Author:Kris Davison ###
+### Date:13/01/2015 ###
 
 Assumptions
 ----------- 
